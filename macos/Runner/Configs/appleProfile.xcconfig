@@ -1,0 +1,7 @@
+#include "../../Flutter/appleProfile.xcconfig"
+#include "Warnings.xcconfig"
+
+FLUTTER_TARGET=lib/main_apple.dart
+ASSET_PREFIX=apple
+BUNDLE_NAME=Dev GetX Tutorial App
+BUNDLE_DISPLAY_NAME=Dev GetX Tutorial App

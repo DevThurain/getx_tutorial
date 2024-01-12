@@ -13,6 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
   get:
+  flutter_flavorizr: ^2.2.1
 
   flutter_localizations:
     sdk: flutter

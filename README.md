@@ -29,3 +29,18 @@ To support additional languages, please visit the tutorial on
 [Internationalizing Flutter
 apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
 # getx_tutorial
+
+## Flavorizr Install
+sudo gem install xcodeproj
+flutter pub run flutter_flavorizr
+{
+    "name": "getx_tutorial_dev",
+    "request": "launch",
+    "type": "dart",
+    "args": [
+          "-t",
+          "lib/main_dev.dart",
+          "--flavor",
+          "dev"
+    ]
+}

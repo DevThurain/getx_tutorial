@@ -1,0 +1,31 @@
+flavors:
+  dev:
+    app:
+      name: "Dev GetX Tutorial App"
+
+    android:
+      applicationId: "com.thurainx.getxtutorial.dev"  
+    ios:
+      bundleId: "com.thurainx.getxtutorial.dev"
+    macos:
+      bundleId: "com.thurainx.getxtutorial.dev"  
+  prod:
+    app:
+      name: "Prod GetX Tutorial App"
+  
+    android:
+      applicationId: "com.thurainx.getxtutorial.dev"
+    ios:
+      bundleId: "com.thurainx.getxtutorial.dev"
+    macos:
+      bundleId: "com.thurainx.getxtutorial.dev"
+  qa:
+    app:
+      name: "QA GetX Tutorial App"
+  
+    android:
+      applicationId: "com.thurainx.getxtutorial.qa"
+    ios:
+      bundleId: "com.thurainx.getxtutorial.qa"
+    macos:
+      bundleId: "com.thurainx.getxtutorial.qa"
