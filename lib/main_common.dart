@@ -5,6 +5,5 @@ import 'package:getx_tutorial/flavors.dart';
 
 Future<void> mainCommon(Flavor flavor) async {
   F.appFlavor = flavor;
-  LocalResourceBinding.
   runApp(const MyApp());
 }
