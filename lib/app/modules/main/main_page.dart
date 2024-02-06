@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/route_manager.dart';
-import 'package:getx_tutorial/app/features/counter/counter_page.dart';
+import 'package:getx_tutorial/app/modules/counter/counter_page.dart';
 import 'package:getx_tutorial/flavors.dart';
 
 class MainPage extends StatelessWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 import 'package:get/instance_manager.dart';
-import 'package:getx_tutorial/app/features/counter/counter_controller.dart';
+import 'package:getx_tutorial/app/modules/counter/counter_controller.dart';
 
 class CounterPage extends StatelessWidget {
   static const routeName = '/counter_page';
