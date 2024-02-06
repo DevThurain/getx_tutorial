@@ -44,3 +44,6 @@ flutter pub run flutter_flavorizr
           "dev"
     ]
 }
+
+## Custom Form Field Article
+[Medium](https://medium.com/@sebastinesoacatp/flutter-custom-widgets-form-validation-3d3623a8c9df)
